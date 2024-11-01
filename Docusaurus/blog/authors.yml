@@ -21,3 +21,21 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+syauqiyasman:
+  name: Syauqi Muhammad Yasman
+  title: Syauqi
+  url: https://github.com/syauqiyasman
+  image_url: https://github.com/syauqiyasman.png
+  page: true
+  socials:
+    github: syauqiyasman
+
+mdlnecg:
+  name: Madeline Clairine Gultom
+  title: Madeline
+  url: https://github.com/mdlnecg
+  image_url: https://github.com/mdlnecg.png
+  page: true
+  socials:
+    github: mdlnecg
